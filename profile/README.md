@@ -1,4 +1,5 @@
 ## Hi there 👋
+SP 주니어 프론트 개발자의 지식 공유를 위한 Organization입니다!
 
 <!--
 
