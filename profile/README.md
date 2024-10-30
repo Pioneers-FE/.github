@@ -18,12 +18,15 @@ SP 주니어 프론트 개발자의 지식 공유를 위한 Organization입니�
     <td align="center"><a href="https://github.com/yuiseo"><img src="https://avatars.githubusercontent.com/yuiseo" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ayoung528"><img src="https://avatars.githubusercontent.com/ayoung528" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/ilmerry"><img src="https://avatars.githubusercontent.com/ilmerry" width="130px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/akffhaos95"><img src="https://avatars.githubusercontent.com/akffhaos95" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/akffhaos95"><img src="https://avatars.githubusercontent.com/akffhaos95" width="130px;" alt=""></a>
+    </td>
+    <td align="center"><a href="https://github.com/hookim"><img src="https://avatars.githubusercontent.com/hookim" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yuiseo"><b>유이서</b></a></td>
     <td align="center"><a href="https://github.com/ayoung528"><b>정아영</b></a></td>
     <td align="center"><a href="https://github.com/ilmerry"><b>최은형</b></a></td>
     <td align="center"><a href="https://github.com/akffhaos95"><b>김민석</b></a></td>
+       <td align="center"><a href="https://github.com/hookim"><b>김재후</b></a></td>
   </tr>
 </table>
