@@ -23,7 +23,6 @@ SP 주니어 프론트 개발자의 지식 공유를 위한 Organization입니�
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/yuiseo"><b>유이서</b></a></td>
-    <td align="center"><a href="https://github.com/ayoung528"><b>정아영</b></a></td>
     <td align="center"><a href="https://github.com/ilmerry"><b>최은형</b></a></td>
     <td align="center"><a href="https://github.com/akffhaos95"><b>김민석</b></a></td>
        <td align="center"><a href="https://github.com/hookim"><b>김재후</b></a></td>
